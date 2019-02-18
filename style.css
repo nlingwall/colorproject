@@ -1,0 +1,67 @@
+body{
+margin:0px;
+}
+
+#total{
+  
+   
+}
+
+#add{
+    margin:50px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+#add > .button{
+    align-content: center;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px;
+
+}
+
+
+#change-color{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#switch{
+    height: 50px;
+    width: 150px;
+    margin: 20px;
+}
+
+#add-new{
+    color: black;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 5px;
+   
+
+}
+
+#remove-current{
+    color: black;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 5px;
+   
+
+}
